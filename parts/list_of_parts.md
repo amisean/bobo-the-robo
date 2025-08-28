@@ -1,6 +1,6 @@
 
 ## MCU
-- [ ] [AZ-Nano V3 (USB-C)](https://www.az-delivery.de/en/products/az-nano-v3-board-mit-usb-c-anschluss-mit-atmega328-ch340-fertig-verlotete-verbesserte-version)
+- [ ] [AZ-Nano V3 (USB-C)](https://www.az-delivery.de/en/products/az-nano-v3-board-set-mit-usb-c-anschluss-atmega-ch340-chip-atmega328-ch340-kompatibel-mit-arduino-arduino-pro-micro-und-arduino-nano-v3)
 ## Sensors
 - [ ] [GY-521 MPU-6050 3-Axis Gyroscope and Acceleration Sensor](https://www.az-delivery.de/en/products/gy-521-6-achsen-gyroskop-und-beschleunigungssensor)
 - [ ] [US-015 Ultrasonic Distance Sensor](https://www.aliexpress.com/item/1005008410046449.html?spm=a2g0o.order_list.order_list_main.63.56715c5fpSh6is&gatewayAdapt=glo2deu)
