@@ -4,4 +4,4 @@
 
 This repository contains the documentation developed as part of a university project.
 
-![](https://youtu.be/l3WrvmigYPI)
+[![IMAGE ALT TEXT](https://youtu.be/l3WrvmigYPI/0.jpg)](https://youtu.be/l3WrvmigYPI)
