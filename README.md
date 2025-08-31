@@ -4,4 +4,4 @@
 
 This repository contains the documentation developed as part of a university project.
 
-[![Bobo the Robo](https://youtu.be/l3WrvmigYPI/1.jpg)](https://www.youtube.com/watch?v=l3WrvmigYPI)
+[![Bobo the Robo](https://img.youtube.com/vi/l3WrvmigYPI/maxresdefault.jpg)](https://www.youtube.com/watch?v=l3WrvmigYPI)
