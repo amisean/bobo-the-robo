@@ -3,3 +3,5 @@
 # Bobo the Robo: TWIP Robot with Arduino
 
 This repository contains the documentation developed as part of a university project.
+
+![](https://youtu.be/l3WrvmigYPI)
