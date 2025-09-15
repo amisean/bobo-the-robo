@@ -2,4 +2,4 @@
 
 # Bobo the Robo: TWIP Robot with Arduino
 
-This repository contains the documentation developed as part of a university project.
+This repository contains the documentation of a university project.
