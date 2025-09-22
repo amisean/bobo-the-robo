@@ -4691,18 +4691,12 @@
       <diylc.electromechanical.PinHeader reference="../../../components/diylc.electromechanical.PinHeader[12]"/>
     </set>
     <set>
-      <diylc.misc.BatterySymbol reference="../../../components/diylc.misc.BatterySymbol"/>
+      <diylc.electromechanical.PinHeader reference="../../../components/diylc.electromechanical.PinHeader[26]"/>
+      <diylc.electromechanical.PinHeader reference="../../../components/diylc.electromechanical.PinHeader[27]"/>
+    </set>
+    <set>
       <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle"/>
-    </set>
-    <set>
-      <diylc.electromechanical.PinHeader reference="../../../components/diylc.electromechanical.PinHeader[3]"/>
-      <diylc.electromechanical.PinHeader reference="../../../components/diylc.electromechanical.PinHeader[5]"/>
-      <diylc.electromechanical.PinHeader reference="../../../components/diylc.electromechanical.PinHeader[9]"/>
-      <diylc.electromechanical.PinHeader reference="../../../components/diylc.electromechanical.PinHeader[4]"/>
-    </set>
-    <set>
-      <diylc.misc.BatterySymbol reference="../../../components/diylc.misc.BatterySymbol[2]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[2]"/>
+      <diylc.misc.BatterySymbol reference="../../../components/diylc.misc.BatterySymbol"/>
     </set>
     <set>
       <diylc.electromechanical.PinHeader reference="../../../components/diylc.electromechanical.PinHeader[18]"/>
@@ -4711,8 +4705,14 @@
       <diylc.electromechanical.PinHeader reference="../../../components/diylc.electromechanical.PinHeader[24]"/>
     </set>
     <set>
-      <diylc.electromechanical.PinHeader reference="../../../components/diylc.electromechanical.PinHeader[26]"/>
-      <diylc.electromechanical.PinHeader reference="../../../components/diylc.electromechanical.PinHeader[27]"/>
+      <diylc.electromechanical.PinHeader reference="../../../components/diylc.electromechanical.PinHeader[4]"/>
+      <diylc.electromechanical.PinHeader reference="../../../components/diylc.electromechanical.PinHeader[3]"/>
+      <diylc.electromechanical.PinHeader reference="../../../components/diylc.electromechanical.PinHeader[5]"/>
+      <diylc.electromechanical.PinHeader reference="../../../components/diylc.electromechanical.PinHeader[9]"/>
+    </set>
+    <set>
+      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle[2]"/>
+      <diylc.misc.BatterySymbol reference="../../../components/diylc.misc.BatterySymbol[2]"/>
     </set>
   </groups>
   <lockedLayers/>
